@@ -20,10 +20,20 @@ Our platform provides a comprehensive solution for managing applications, gatewa
 
 To get started with our platform:
 
-1. [Create an account](/docs/getting-started/installation)
-2. [Set up your first application](/docs/getting-started/first-steps)
-3. [Configure your API gateway](/docs/guides/gateways)
-4. [Generate API keys](/docs/guides/api-keys)
+1. [Login Guide](/docs/getting-started/login-guide)
+2. [First Login](/docs/getting-started/first-login)
+3. [First Steps](/docs/getting-started/first-steps)
+4. [Configuration](/docs/getting-started/configuration)
+
+## Platform Modules
+
+- [User Management](/docs/users/overview) - Manage users, roles, and permissions
+- [Tenant Management](/docs/tenants/overview) - Multi-tenant organization management
+- [Applications](/docs/applications/overview) - Deploy and manage applications
+- [Devices & Gateways](/docs/devices/overview) - IoT device and gateway management
+- [Inventory Management](/docs/inventory/overview) - Track and manage assets
+- [API Keys](/docs/api-keys/overview) - Secure API access management
+- [Admin Features](/docs/admin/overview) - Administrative tools and features
 
 ## Need Help?
 
